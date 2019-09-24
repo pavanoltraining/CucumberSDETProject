@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="testRunner.TestRunner" time="63.205" errors="0" skipped="0">
+  <properties>
+    <property name="JOB_NAME" value="cucumberSDET_Maven"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\admin\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="92e809d3d2ec63ce"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Users\admin\AppData\Local\Temp"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="11.0.2+9-LTS"/>
+    <property name="IntelliJ IDEA Community Edition" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.3\bin;"/>
+    <property name="user.name" value="admin"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="cucumberSDET_Maven"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/cucumberSDET_Maven/1/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="OneDrive" value="C:\Users\admin\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="LOCALAPPDATA" value="C:\Users\admin\AppData\Local"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERNAME" value="admin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="PyCharm Community Edition" value="C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.5\bin;"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\apache-maven-3.6.1\conf"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="ESET_OPTIONS" value="                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.2"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/cucumberSDET_Maven/1/display/redirect"/>
+    <property name="TMP" value="C:\Users\admin\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="11.0.2+9-LTS"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/cucumberSDET_Maven/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-3R73L8V"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11.0.2"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\admin"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="COMPUTERNAME" value="DESKTOP-3R73L8V"/>
+    <property name="user.script" value=""/>
+    <property name="python_home" value="C:\Program Files (x86)\Python3.6.4"/>
+    <property name="user.home" value="C:\Users\admin"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-cucumberSDET_Maven-1"/>
+    <property name="JENKINS_SERVER_COOKIE" value="92e809d3d2ec63ce"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2019-01-15"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\admin"/>
+    <property name="python_script" value="C:\Program Files (x86)\Python3.6.4\Scripts"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.6.1\/bin;C:\Program Files\Java\jdk-11.0.2/bin;C:\Program Files\Java\jdk-11.0.2/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\app\OracleHomeUser1\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files\Git\bin\;C:\Drivers\IEDriverServer_Win32_3.7.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Python3.6.4;C:\Program Files (x86)\Python3.6.4\Scripts;C:\apache-maven-3.6.1\\bin;C:\apache-maven-3.6.1\bin;C:\apache-maven-3.6.1\;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Java\jdk1.8.0_211\\bin;C:\Users\admin\AppData\Local\Android\Sdk\platform-tools;C:\Users\admin\AppData\Local\Android\Sdk\tools;C:\Users\admin\AppData\Local\Android\Sdk\build-tools;C:\Users\admin\AppData\Local\Android\Sdk\build-tools\bin;C:\Users\admin\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\Java\jdk1.8.0_211\;C:\Program Files\Java\jdk1.8.0_211\\lib;C:\Program Files\Java\jdk1.8.0_211\\bin;E:\app\OracleHomeUser1\instantclient_18_3;C:\Program Files\nodejs\;C:\gradle-5.4.1\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files (x86)\Python3.6.4\Scripts;C:\allure-2.13.0\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;."/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\admin\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\apache-maven-3.6.1"/>
+    <property name="java.class.path" value="C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\apache-maven-3.6.1\boot\plexus-classworlds-2.6.0.jar;C:\apache-maven-3.6.1/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.6.1\ C:\Users\admin\.jenkins\war\WEB-INF\lib\remoting-3.29.jar C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 54543"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-11.0.2/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\app\OracleHomeUser1\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files\Git\bin\;C:\Drivers\IEDriverServer_Win32_3.7.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Python3.6.4;C:\Program Files (x86)\Python3.6.4\Scripts;C:\apache-maven-3.6.1\\bin;C:\apache-maven-3.6.1\bin;C:\apache-maven-3.6.1\;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Java\jdk1.8.0_211\\bin;C:\Users\admin\AppData\Local\Android\Sdk\platform-tools;C:\Users\admin\AppData\Local\Android\Sdk\tools;C:\Users\admin\AppData\Local\Android\Sdk\build-tools;C:\Users\admin\AppData\Local\Android\Sdk\build-tools\bin;C:\Users\admin\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\Java\jdk1.8.0_211\;C:\Program Files\Java\jdk1.8.0_211\\lib;C:\Program Files\Java\jdk1.8.0_211\\bin;E:\app\OracleHomeUser1\instantclient_18_3;C:\Program Files\nodejs\;C:\gradle-5.4.1\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files (x86)\Python3.6.4\Scripts;C:\allure-2.13.0\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-11.0.2/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="M2_HOME" value="C:\apache-maven-3.6.1\"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="java.io.tmpdir" value="C:\Users\admin\AppData\Local\Temp\"/>
+    <property name="HUDSON_HOME" value="C:\Users\admin\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-3.6.1\/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/cucumberSDET_Maven/1/"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.dir" value="C:\Users\admin\eclipse-workspace\CucumberSDETProject"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/cucumberSDET_Maven/"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-3R73L8V"/>
+    <property name="USERDOMAIN" value="DESKTOP-3R73L8V"/>
+    <property name="MAVEN_HOME" value="C:\apache-maven-3.6.1\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="PROCESSOR_REVISION" value="8e09"/>
+    <property name="ANDROID_HOME" value="C:\Users\admin\AppData\Local\Android\Sdk"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Jenkins"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE" value="C:\Users\admin\.jenkins\workspace\cucumberSDET_Maven"/>
+    <property name="maven3.interceptor.common" value="C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="java.vendor.version" value="18.9"/>
+  </properties>
+  <testcase classname="Customers" name="Add new Customer" time="38.763"/>
+  <testcase classname="Login" name="Successful Login with Valid Credentials" time="24.442"/>
+</testsuite>
